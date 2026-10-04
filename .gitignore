@@ -1,0 +1,4 @@
+node_modules
+session
+state.json
+.wwebjs_cache
